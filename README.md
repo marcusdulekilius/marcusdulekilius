@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman</h1>
 <h3 align="center">I'm a Computer Science student in Turkey.</h3>
-- 🌱 I'm currently learning C & JavaScript </h3>
-- 📫 How to reach me **dulekabdulrahman@gmail.com**
+- 🌱 I'm currently learning C & JavaScript
+<h3 - 📫 How to reach me **dulekabdulrahman@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdulrahman-dülek-02739a256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulrahman-dülek-02739a256" height="30" width="40" /></a>
