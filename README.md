@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman</h1>
 <h3 align="center">I'm a Computer Science student in Turkey.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcusdulekilius&label=Profile%20views&color=0e75b6&style=flat" alt="marcusdulekilius" /> </p>
-
 - 📫 How to reach me **dulekabdulrahman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
