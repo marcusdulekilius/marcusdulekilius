@@ -17,6 +17,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcusdulekilius&label=Profile%20views&color=0e75b6&style=flat" alt="marcusdulekilius" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcusdulekilius&show_icons=true&theme=highcontrast&bg_color=000000&locale=en&layout=compact" alt="marcusdulekilius" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcusdulekilius&show_icons=true&theme=dark&locale=en" alt="marcusdulekilius" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcusdulekilius&show_icons=true&theme=highcontrast&bg_color=050505&locale=en" alt="marcusdulekilius" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcusdulekilius&theme=highcontrast" alt="marcusdulekilius" /></p>
