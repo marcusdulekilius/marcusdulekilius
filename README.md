@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcusdulekilius&show_icons=true&theme=dark&locale=en" alt="marcusdulekilius" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcusdulekilius&theme=dark" alt="marcusdulekilius" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcusdulekilius&theme=highcontrast" alt="marcusdulekilius" /></p>
