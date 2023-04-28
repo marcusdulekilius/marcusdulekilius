@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman</h1>
 <h3 align="center">I'm a Computer Science student in Turkey.</h3>
-<img align="right" alt=""Coding" width="390" src="https://media.tenor.com/f3HGfIRTPGYAAAAC/atat%C3%BCrk-mustafa-kemal-atat%C3%BCrk.gif" >
+<img align="right" alt=""Coding" width="390" src="https://media.tenor.com/f3HGfIRTPGYAAAAd/atat%C3%BCrk-mustafa-kemal-atat%C3%BCrk.gif" >
 
 - 🌱I’m currently learning **C & JavaScript**
 
